@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-portafolios-online.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Portafolios de diseño en línea | Lynx Pardelle",
+    "description": "Organiza tu trabajo en un portafolio en línea. Presenta tus proyectos por disciplina o tipo de cliente y explica qué aportaste a cada uno.",
+    "canonical": "https://servicio-portafolios-online.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-web.webp"
+    }
+  }
+}
