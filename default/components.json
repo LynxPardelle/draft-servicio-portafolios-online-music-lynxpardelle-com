@@ -140,7 +140,7 @@
       "type": "text",
       "config": {
         "id": "outcome-title",
-        "text": "Objetivo del trabajo",
+        "text": "¿Cómo organizas un portafolio creativo en línea?",
         "tag": "h2",
         "styles": {
           "margin": "0",
@@ -158,7 +158,7 @@
       "type": "text",
       "config": {
         "id": "outcome-copy",
-        "text": "Una selección de proyectos fácil de explorar y adaptada a las personas que quieres que conozcan tu trabajo.",
+        "text": "Seleccionas los proyectos que representan el trabajo que quieres seguir haciendo. Los organizas por categorías y explicas con imágenes qué aportaste en cada uno.",
         "tag": "p",
         "styles": {
           "margin": "0",
@@ -590,7 +590,8 @@
         "tag": "section",
         "components": [
           "offer-contact",
-          "return-link"
+          "return-link",
+          "portfolio-reference"
         ],
         "styles": {
           "boxSizing": "border-box",
@@ -844,6 +845,22 @@
           "fontFamily": "\"Instrument Sans\", system-ui, sans-serif",
           "lineHeight": "1.6",
           "minHeight": "100vh"
+        }
+      }
+    },
+    {
+      "id": "portfolio-reference",
+      "type": "link",
+      "config": {
+        "text": "Ver sitios y proyectos web de Lynx Pardelle",
+        "href": "https://lynxpardelle.com/webs",
+        "styles": {
+          "color": "#f6c17d",
+          "textUnderlineOffset": "4px",
+          "minHeight": "44px",
+          "display": "inline-flex",
+          "alignItems": "center",
+          "fontWeight": "640"
         }
       }
     }
