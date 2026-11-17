@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Portafolios de diseño en línea | Lynx Pardelle",
-    "description": "Organiza tu trabajo en un portafolio en línea. Presenta tus proyectos por disciplina o tipo de cliente y explica qué aportaste a cada uno.",
+    "title": "Diseño de portafolios en línea para creativos | Lynx Pardelle",
+    "description": "Presenta tus proyectos con imágenes, categorías y contexto de tu participación. Organiza un portafolio en línea para quien quieres que conozca tu trabajo.",
     "canonical": "https://servicio-portafolios-online.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-portafolios-online-r2-bd03051373c63a2c.webp",
+      "title": "Diseño de portafolios en línea para creativos | Lynx Pardelle",
+      "description": "Presenta tus proyectos con imágenes, categorías y contexto de tu participación. Organiza un portafolio en línea para quien quieres que conozca tu trabajo.",
+      "url": "https://servicio-portafolios-online.music.lynxpardelle.com/",
+      "imageAlt": "Un portafolio de proyectos creativos en una estación de trabajo."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Diseño de portafolios en línea para creativos | Lynx Pardelle",
+      "description": "Presenta tus proyectos con imágenes, categorías y contexto de tu participación. Organiza un portafolio en línea para quien quieres que conozca tu trabajo.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-portafolios-online-r2-bd03051373c63a2c.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-portafolios-online.music.lynxpardelle.com/#webpage",
+        "name": "Portafolios de diseño en línea",
+        "description": "Presenta tus proyectos con imágenes, categorías y contexto de tu participación. Organiza un portafolio en línea para quien quieres que conozca tu trabajo.",
+        "url": "https://servicio-portafolios-online.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-portafolios-online.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-portafolios-online.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Portafolios de diseño en línea",
+        "description": "Presenta tus proyectos con imágenes, categorías y contexto de tu participación. Organiza un portafolio en línea para quien quieres que conozca tu trabajo.",
+        "url": "https://servicio-portafolios-online.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-portafolios-online-r2-bd03051373c63a2c.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Portafolios de diseño en línea"
+      }
+    ]
   }
 }
